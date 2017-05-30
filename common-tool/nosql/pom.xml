@@ -10,6 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>nosql</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>redission</module>
+        <module>mongo</module>
+    </modules>
 
 
 </project>

@@ -10,6 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>common-tool</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>mybatis</module>
+        <module>queue</module>
+        <module>nosql</module>
+    </modules>
 
 
 </project>
